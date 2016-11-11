@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_afa28380b0f5b4e40e6908a58efc729be5bce60e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_98377a56f8df42287cb2af15bcfea3f84aee9911/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5651a9310f0e473850d16476cf9df51976ea7233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b18b83aac8cadb24bd4f2cbc55f69ae9e27d0fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_ce82a97a1f199275703a7aee931543b6e015ef60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_9361fa578c244649f643020d56d526dd481cea49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7f4f150427efe05ff10096ce78fa35601af7ea3f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3a0900161d1000bda691a2dd201c79d0af665a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_100cd8598ca10ad512a51665cd84c171d94c8597/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.5.5/53a2f927b235acb565dbe9314ececfb7e6d43020/android-mail-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-mail-1.5.5_b6513a9f8c6abacb7e91c2be83c9388649b2909b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5b4c51fd3f7657b1e13c4c2667c771dd5e1c2d94">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9f4624cfe4d28f5b3e3a0e283150ecd98b279b69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_548c0cd0ee2a9dc1a38feab6431ccb80f6cd002a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.5.5/5442d5e05808145434b750c9f8a0c3f537383c5a/android-activation-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-activation-1.5.5_fa85b5c4c746e21b3868f8057417e5dff8c3d425/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_351be89d6495cc3e41d196d118b65a27ec75f67c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b1470717f3a1c31d699f01032a2d99db821d0148/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_b76782765f3c54fe1fd971d91637c0d174c4962d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5941aca60abebc55290910334989dd50882843e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikhaellopez-circularimageview-3.0.2_46d61cacf0163b8158c784c67127f93585ba21c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_1238f16f84fad58905334cccc2e85d13c25ccc43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_b0f7ab5818c42e0c32f5bf2cef0f282409472c6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_e24e2ba873001508d5538db811021fbe8e5c054c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fc82f6438d80e6f14c114c87174d38205d0ebe71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e49d99a5e13e941b08864c1d9561dfd8a41f8029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c6c93004559d558fbc1dcfc7538a0791ebced8fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_703ec84ca1f73866a24284e56e905174a1cfd062/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a0d70ebc4bc93f9739d5730f99fbea60cafa317a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_aa44cceed049627fa277fd3390d2d5f8fc69d09d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_dfcd0b8762c4dc24e0f3983a57f28126ff9fa9c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_cc8cd074e10882b9fa5125024b56829b540c6c11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_66f0d91d11e2ab911fe7020733f81363c9099c16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f5dbcf06f76117c28dcb993032de773d191cd932/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_671826218f9dc0c94f008adf263d5485dfebd887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_cbfb6f8e3969751998edfe32ed91662465015c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikhaellopez-circularimageview-3.0.2_c601e61bd2ac11559bdd43d870122698cf987739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_ae6262629f398603765cff454cfce351c1ff4809/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2fcb0a468dc9b8d4784fb230e660c28aec050e8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_115e02c05a3ca4a6b31ac51ca58ea1fbdeb428bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_03a5e209ee5d0e598a0ae2fde0873c9e3260f6cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_bbefefb04563137904a22946df9726b4c0ad117d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_34f49c478ee1008d379a52635839a56556109c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_8184c09e0bd53aeaeed23ff7e1edadca8fb358bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5d4808e6134338cfccb1b02badeac7dff1534460">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_23463419e882057ae9b728c3ecce0671727abedd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b17a97b88e6fe77ababe009c9bd0a7ac09493be9">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18e5a0fa2d13dc96c6fe6893177892aad155a2f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_d25ff4ec81586d3a08d7deb2117bb5fb92362cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8a9515f4e50f61e3da9d88e51ff4e3cef89a5f86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_b4a766ffcb867ff18fa7625802cf53ead38512ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_35b86d81a4d2b66b24f5e9f2d3addd254a62f4c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e3b32b4958f989e6a93273571772acc1faee1bfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_1d1e242c658b303aeefe945af5fc2d2d8caf970c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9827f873632364932a863277fca66f78ad8745ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_fea72414a392e27be7fac6fcf1c0f55b756a1801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_34a06750777951a38f67404ac0d353cf13cff12f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6980ed4f0d311f5924be1fd96d1b94c9bffe5ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9f99751ad3a8749ef8416930b554134edb8f2c56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a2f54ea5ba7f525e83148e7f5c349ef3f500e6d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a19850561f832b791bfb70241855365da890b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_4e3f63b7feff1ba6dca4fe73014a90d1af6e3bba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_b76ad6a5da606ce8f7789c49bbccc5a44c3a0ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_64bf20d5dae101138883c2be3f054b6ddc2d2d9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ab888adbe1939248c2f25684b62181cf1e7468fb">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2735d01075aa34418827cb876f1691dc3a26bf2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_22f4ccc668d21ee4f5757d1b33b91aaf07904c6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_89729b88553dcb610c096305d86b1242f5ba27ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_d7fa181b442280fac2bbfa4ced3d977120c0b5a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7956e436fd843d06d1eecdf634e71cd9002b3af3">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6f80723cd962ced86b26a86ac3e4a835dd133de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_737f77ebb3bc82f75889d0faa802a731ccb18d06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3a65734eeb7970ddb090429525a95e6b982ef94b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_3a0a971886bbee66e03ec36114212083174f8432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9175df68701748a07689698704c5cdc6cb53c22c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_632cd7dfe424366993114c7782a02b8ee59f0765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_caca4c3f3f914b5d35fd65a931b51a5268945801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_33a2e1be365b6dd80093a16c864b4655ec11fcfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bfa0a11d2356752d0592af55418f66e27714d346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_d263d15cb68e6d4d3f248baaccbdf4863844f980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e7030ebcec28d16197d68afcaa4e94392ec291ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_115db95df1a0b5e410e728516d90de9a68ebd533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikhaellopez-circularimageview-3.0.2_9452757f8e7c7b2de74458699b0f33479cac6ecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_06cf8d8baa2d72b79aded2141b249b170f28f11c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_7f63b21a87e930196862b6b34fd77ff6adce0270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_cfcfb81873dff5fab614636d9751095e3aedb615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_101298630ba47bc63bba062c9705dbcbc10d2ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_549237bd9c4b02ff67f5d097b56a81e57fd68a07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d6906a0467ce68b5cb97def4c2f3263df22f874c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_00653a1b332be78b5c2b76649f9377f0c3ba823e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9e2a66467629cfc98b70584fd4930f78b98abd76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_e2004a827eddbe166d03994f61e1e316ce125da4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_ea8a24592f03beb3b6594136d25147f9c0eb6c00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_45fbd92dc563f25d88cc72e4b4c042e2aa27092f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e1ca04ba127193e34f3d7e531d91ac22f36010e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_34a2c86653d414ae090baa94206d6d0680ee1ac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_f9e6901c4c96c55198445f50e00f63132f6aa6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_b930e46756ac6063bfc412ae0f2997ba9222cd48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_a6af25e69dd028b46c6299995674ca4183631b48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a7bb752ee5edb285ae390db256fb0cbaeae512e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f1296426dfa4459f209895539f6cbaa603b2fa0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_60b08754b9abab6af2883979027855041c6d11f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_800d9c3c97d45e3ae6042875259555c88fb3973d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1eb74df7b007e318fb1754c3dcd142a0224809ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_98af0366be202209ac01a9fc79e9004a94fcf5c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_1d9668c8fd8a33a055605b0843aaa50a56c514c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eda462cfe65c341d8768e0a43aad4aab51395663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_1207ec68e3ab7c3dd7b099f06a34f7ce922f6dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_93c89ea89e00e48be2d6864cbf041e47c5fa07ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_69305eb4bc8fecb6198a1cb2cb94e4c1ba1f804f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e0cfa89cc32196fe9fba520e868e06484ef40223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f523696dd5da4a1c7ae06fb026ac63be0f44f2be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_0be08658db82dd28078b0f2a94d5f46d86e6851f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W4P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_440c0ce11281b956a6b7e530357ab35be55d865e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourseraA4W5P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_9635d6b276dc593819f0d61a8619c85637c59f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/leyenda/AndroidStudioProjects/CourA4W3P/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_6a127ea1bce9bb81e6fbbca1ec25403b28c0ebe6/classes.dex" />
+    </item>
+
+</items>
